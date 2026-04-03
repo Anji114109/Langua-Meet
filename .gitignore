@@ -1,0 +1,43 @@
+# Root
+.env
+.env.*
+!.env.example
+temp/
+temp_audio/
+
+# Backend
+backend/.env
+backend/.env.*
+backend/node_modules/
+backend/dist/
+backend/temp/
+backend/src/temp/
+backend/*.log
+backend/npm-debug.log*
+
+# Frontend
+frontend/.env
+frontend/.env.*
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+frontend/*.log
+frontend/npm-debug.log*
+
+# Transcription service
+transcription-service/.env
+transcription-service/.env.*
+transcription-service/venv/
+transcription-service/.venv/
+transcription-service/__pycache__/
+transcription-service/**/*.pyc
+transcription-service/**/*.pyo
+transcription-service/**/*.pyd
+
+# 🚨 VERY IMPORTANT (FIXED)
+transcription-service/models/
+
+# Optional but recommended
+*.onnx
+*.bz2
+*.wav

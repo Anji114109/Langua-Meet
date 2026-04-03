@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+torch
+nemo_toolkit[asr]
+soundfile
+reportlab
+transformers==4.57.6
+tokenizers>=0.22,<0.23
+google-generativeai
+python-dotenv
