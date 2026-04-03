@@ -1,0 +1,32 @@
+{"ts":"2026-03-24T17:36:04.998Z","event":"transcript_modify_requested","meetingId":"mn4wan34-6agohqj7"}
+{"ts":"2026-03-24T17:36:05.554Z","event":"transcript_modify_response","meetingId":"mn4wan34-6agohqj7","upstreamStatus":200,"upstreamData":{"status":"skipped","message":"Gemini modification unavailable; continuing with original transcript","meeting_id":"mn4wan34-6agohqj7","detail":"404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."}}
+{"ts":"2026-03-24T17:36:21.818Z","event":"transcript_modify_requested","meetingId":"mn4wan34-6agohqj7"}
+{"ts":"2026-03-24T17:36:22.043Z","event":"transcript_modify_response","meetingId":"mn4wan34-6agohqj7","upstreamStatus":200,"upstreamData":{"status":"skipped","message":"Gemini modification unavailable; continuing with original transcript","meeting_id":"mn4wan34-6agohqj7","detail":"404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."}}
+{"ts":"2026-03-24T17:41:50.772Z","event":"transcript_modify_requested","meetingId":"mn4wigse-y8vwvfkn"}
+{"ts":"2026-03-24T17:41:51.607Z","event":"transcript_modify_response","meetingId":"mn4wigse-y8vwvfkn","upstreamStatus":200,"upstreamData":{"status":"skipped","message":"Gemini modification unavailable; continuing with original transcript","meeting_id":"mn4wigse-y8vwvfkn","detail":"404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."}}
+{"ts":"2026-03-24T17:42:01.743Z","event":"transcript_modify_requested","meetingId":"mn4wigse-y8vwvfkn"}
+{"ts":"2026-03-24T17:42:02.201Z","event":"transcript_modify_response","meetingId":"mn4wigse-y8vwvfkn","upstreamStatus":200,"upstreamData":{"status":"skipped","message":"Gemini modification unavailable; continuing with original transcript","meeting_id":"mn4wigse-y8vwvfkn","detail":"404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."}}
+{"ts":"2026-03-24T17:49:19.925Z","event":"transcript_modify_requested","meetingId":"mn4wry87-b37zqyf2"}
+{"ts":"2026-03-24T17:49:35.614Z","event":"transcript_modify_response","meetingId":"mn4wry87-b37zqyf2","upstreamStatus":200,"upstreamData":{"status":"success","message":"Transcript modified successfully","meeting_id":"mn4wry87-b37zqyf2","modified_count":2,"model":"models/gemini-2.5-flash"}}
+{"ts":"2026-03-24T17:49:47.732Z","event":"transcript_modify_requested","meetingId":"mn4wry87-b37zqyf2"}
+{"ts":"2026-03-24T17:49:56.309Z","event":"transcript_modify_response","meetingId":"mn4wry87-b37zqyf2","upstreamStatus":200,"upstreamData":{"status":"success","message":"Transcript modified successfully","meeting_id":"mn4wry87-b37zqyf2","modified_count":0,"model":"models/gemini-2.5-flash"}}
+{"ts":"2026-03-24T18:14:59.059Z","event":"transcript_modify_requested","meetingId":"smoke-test-id"}
+{"ts":"2026-03-24T18:14:59.070Z","event":"transcript_modify_not_found","meetingId":"smoke-test-id"}
+{"ts":"2026-03-24T18:15:20.859Z","event":"transcript_modify_requested","meetingId":"smoke-test-id"}
+{"ts":"2026-03-24T18:15:20.870Z","event":"transcript_modify_not_found","meetingId":"smoke-test-id"}
+{"ts":"2026-03-24T18:20:29.156Z","event":"transcript_modify_requested","meetingId":"e2e-1774376400"}
+{"ts":"2026-03-24T18:20:39.891Z","event":"transcript_modify_response","meetingId":"e2e-1774376400","upstreamStatus":200,"upstreamData":{"status":"success","message":"Transcript modified successfully","meeting_id":"e2e-1774376400","modified_count":1,"model":"models/gemini-2.5-flash"}}
+{"ts":"2026-03-25T17:42:43.413Z","event":"transcript_modify_requested","meetingId":"mn4wigse-y8vwvfkn"}
+{"ts":"2026-03-25T17:42:43.453Z","event":"transcript_modify_not_found","meetingId":"mn4wigse-y8vwvfkn"}
+{"ts":"2026-03-25T17:48:39.040Z","event":"transcript_modify_requested","meetingId":"mn3ir1b3-lgo66pc7"}
+{"ts":"2026-03-25T17:48:39.055Z","event":"transcript_modify_not_found","meetingId":"mn3ir1b3-lgo66pc7"}
+{"ts":"2026-03-25T17:48:50.987Z","event":"transcript_modify_requested","meetingId":"mn4wan34-6agohqj7"}
+{"ts":"2026-03-25T17:48:51.000Z","event":"transcript_modify_not_found","meetingId":"mn4wan34-6agohqj7"}
+{"ts":"2026-03-25T18:00:09.289Z","event":"transcript_modify_requested","meetingId":"mn4wigse-y8vwvfkn"}
+{"ts":"2026-03-25T18:00:09.306Z","event":"transcript_modify_not_found","meetingId":"mn4wigse-y8vwvfkn"}
+{"ts":"2026-03-25T18:00:55.737Z","event":"transcript_modify_requested","meetingId":"mn3ir1b3-lgo66pc7"}
+{"ts":"2026-03-25T18:00:55.755Z","event":"transcript_modify_not_found","meetingId":"mn3ir1b3-lgo66pc7"}
+{"ts":"2026-03-25T18:12:07.833Z","event":"transcript_modify_requested","meetingId":"mn6d07vn-q605xemy"}
+{"ts":"2026-03-25T18:12:07.849Z","event":"transcript_modify_not_found","meetingId":"mn6d07vn-q605xemy"}
+{"ts":"2026-03-25T18:12:56.513Z","event":"transcript_modify_requested","meetingId":"mn6d2lc3-kw0rh4ya"}
+{"ts":"2026-03-25T18:12:56.527Z","event":"transcript_modify_not_found","meetingId":"mn6d2lc3-kw0rh4ya"}
